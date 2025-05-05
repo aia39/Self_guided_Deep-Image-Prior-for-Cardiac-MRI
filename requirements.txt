@@ -1,0 +1,8 @@
+numpy>=1.26.4
+scikit-image>=0.23.1
+torch>=2.4.1 
+torchvision>=0.19.1 
+matplotlib
+tqdm
+h5py
+scikit-image
