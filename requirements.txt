@@ -1,6 +1,6 @@
 numpy>=1.26.4
 scikit-image>=0.23.1
-torch>=2.4.1 
+torch>=2.4.1     ##for torch gpu, do: 'pip3 install torch torchvision torchaudio'   (install manually)
 torchvision>=0.19.1 
 matplotlib
 tqdm
