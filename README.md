@@ -1,6 +1,8 @@
 # Self_guided_Deep-Image-Prior-for-Cardiac MR Images 
 This is a preliminary repository for the SG-DIP to work on CMRxRecon25. I specially worked on perfusion dataset which is dynamic in nature. Will update it later.
 
+## Data
+All the dataset were curated and organized by https://www.synapse.org/Synapse:syn59814210/wiki/628454. For reference, a few perfusion datasets are uploaded here in the 'data' folder for one-shot testing.
 
 ## Execute
 0. First install dependecncies by pip install -r requirements.txt
