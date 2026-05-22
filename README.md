@@ -1,5 +1,5 @@
 # Self_guided_Deep-Image-Prior-for-Cardiac MR Images 
-This is a preliminary repository for the SG-DIP to work on CMRxRecon25. I specially worked on perfusion dataset which is dynamic in nature. Will update it later.
+This is a preliminary repository for the SG-DIP to work on CMRxRecon25. I specially worked on perfusion dataset which is dynamic in nature. 
 
 ## Data
 All the dataset were curated and organized by https://www.synapse.org/Synapse:syn59814210/wiki/628454. 
